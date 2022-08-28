@@ -1,0 +1,48 @@
+﻿[size=3][b][size=4]Summary[/size][/b]
+Enhance Craftopia's Enchanting
+
+[b][size=4]License[/size][/b]
+[url=https://github.com/Digitalroot-Craftopia/Digitalroot.Craftopia.BetterEnchanting/blob/main/LICENSE]GNU Affero General Public License v3.0[/url]
+
+[b][size=4]Digitalroot.Craftopia.BetterEnchanting[/size][/b]
+
+Enhance Craftopia's Enchanting by unlocking and filtering enchants. I enjoy using [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2699838271]Unlock Enchants[/url] however I found the enchanting interface quickly filling up and created this mod to hide Common and Uncommon rarity enchants. 
+
+[/size][size=3][b]Dependencies[/b]
+[/size][list]
+[*][size=3][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2830278057]BepInEx[/url]﻿﻿[/size]
+[/list][size=3]
+[/size][size=3][b]Pairs well with. aka Soft Dependencies[/b]
+[/size][list]
+[*][size=3][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2699838271]Unlock Enchants[/url]﻿﻿[/size]
+[*][size=3][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2686180088]Lock4Enchantments[/url]﻿﻿[/size]
+[/list][size=3]
+[b][size=4]Installation (manual)[/size][/b]
+[/size][list=1]
+[*][size=3]Download the latest release archive (zip) file.[/size]
+[*][size=3]Extract the archive into <Steam Location>\steamapps\workshop\content\1307550\2830278057\BepInEx\plugins[/size]
+[/list][size=3]
+[size=4][b]Configuration[/b][/size][/size]
+
+[list]
+[*][size=3]Open <Steam Location>\<Steam Location>\steamapps\workshop\content\1307550\2830278057\BepInEx\config\digitalroot.craftopia.betterenchanting.cfg to edit the config.[/size]
+[*][size=3]There are settings for each rarity:[/size]
+[list]
+[*]Common
+[*]Uncommon
+[*]Rare
+[*]Epic
+[*]Legendary
+[/list][*]The acceptable values for each rarity setting are.
+[list]
+[*]Show - [i]Displays enchants of the rarity in the item enchanting interface.[/i]
+[*]Hide - [i]Removes enchants of the rarity from the item enchanting interface.[/i]
+[*]ShowAll - [i]Unlocks and displays all enchants of the rarity in the item enchanting interface.[/i]
+[/list][/list]
+[color=#ffff00][b]Note[/b]: Enchants from materials will always display in the item enchanting interface regardless of rarity configuration.[/color]
+
+[b][size=4]Support Me[/size][/b] @ [url=https://www.buymeacoffee.com/digitalroot]https://www.buymeacoffee.com/digitalroot[/url]
+
+
+[center][size=3][b][color=#00ffff]Digitalroot can be found in the Odin Plus Team Discord[/color][/b][/size]
+[url=https://discord.gg/mbkPcvu9ax][img]https://digitalroot.net/img/odinplusdisc.png[/img][/url]﻿[/center]
